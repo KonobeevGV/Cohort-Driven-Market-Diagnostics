@@ -61,9 +61,9 @@
 
 | Директория/Файл | Описание |
 |----------------|----------|
-| `data/olist_customers_dataset.csv` | данные о пользователях |
-| `data/olist_order_items_dataset.csv` | товарные позиции |
-| `data/olist_orders_dataset.csv` | информация о заказах |
+| `data.csv.zip/olist_customers_dataset.csv` | данные о пользователях |
+| `data.csv.zip/olist_order_items_dataset.csv` | товарные позиции |
+| `data.csv.zip/olist_orders_dataset.csv` | информация о заказах |
 | `notebooks/proj.ipynb` | Jupyter notebook с анализом |
 | `README.md` | Документация проекта |
 | `requirements.txt` | Список зависимостей Python |
